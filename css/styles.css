@@ -1,0 +1,57 @@
+.custom-heading {
+    color: #00bf46; 
+    font-size: 40px; 
+    position: relative;
+    left: 0px; 
+    top: 10px;
+    padding-bottom: 1rem;
+}
+
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+.custom-card-img {
+    max-height: 150px; 
+    object-fit: cover; 
+}
+
+.tech-haven-section {
+    color: rgb(255, 255, 255); 
+    padding: 20px; 
+    border-radius: 10px; 
+}
+
+.tech-haven-heading {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.tech-haven-paragraph {
+    font-size: 23px;
+    font-family: menlo;
+}
+
+.white-text {
+    color: white;
+}
+
+.card-link {
+    color: #282d2a;
+    text-decoration: none;
+  }
+  
+  .card-link:hover {
+    color: #00bf46; 
+  }  
+
+  .laptop-text-paragraph {
+    font-size: 23px;
+    font-family: menlo;
+    color:white;
+}
+
+.custom-checkout-button {
+    background-color: #00bf46;
+    color: white;
+}
